@@ -137,6 +137,7 @@ virtual-paint/
 
 **Noor Fatima**
 - Learning computer vision through hands-on projects
+- Linkedin: https://www.linkedin.com/in/noor-fatimah-8b86322a7/
 
 ---
 
