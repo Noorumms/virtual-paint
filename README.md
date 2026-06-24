@@ -135,9 +135,8 @@ virtual-paint/
 
 ## 👤 Author
 
-**Hafiz Abdul Qadeer**
+**Noor Fatima**
 - Learning computer vision through hands-on projects
-- Built as part of OpenCV course by Murtaza's Workshop
 
 ---
 
